@@ -9,6 +9,7 @@ Install Dependencies:
 2-cd frontend                  npm install
 
 Start the Project:
+
 cd backend            node server.js
 
 cd frontend           npm run start
