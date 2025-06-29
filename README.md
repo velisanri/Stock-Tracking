@@ -16,6 +16,7 @@ cd backend            node server.js
 cd frontend           npm run start
 
 Tech Stack & Libraries:
+
 Core Technologies:
 Frontend: React, Vite
 Backend: Node.js, Express.js , Sequelize, Socket.io 
@@ -23,6 +24,7 @@ Database: SQLite (via Sequelize ORM)
 Desktop: Electron
 
 Features:
+
 User authentication system including registration and login functionality.
 Real-time stock price updates via WebSocket integration.
 Ability to set custom price alerts for followed stocks.
@@ -36,6 +38,7 @@ Secure backend with JWT-based authentication and password hashing using bcrypt.
 
 
 Major Libraries:
+
 react-router-dom	Page navigation (routing)
 axios API requests
 sequelize	ORM for SQLite
