@@ -10,6 +10,10 @@ A modern desktop application built with **Electron**, **React**, and **Node.js (
 
 3-cd ../frontend                  npm install
 
+4-npm run build
+
+5-npm run start
+
 
 -> **Start the Project**:
 
