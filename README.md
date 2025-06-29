@@ -4,10 +4,12 @@ A modern desktop application built with *Electron*, *React*, and *Express.js* al
 
 Install Dependencies:
 1-cd backend                   npm install
+
 2-cd frontend                  npm install
 
 Start the Project:
 cd backend            node server.js
+
 cd frontend           npm run start
 
 Tech Stack & Libraries:
