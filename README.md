@@ -55,15 +55,25 @@ Secure backend with JWT-based authentication and password hashing using bcrypt.
 Major Libraries:
 
 react-router-dom	Page navigation (routing)
+
 axios API requests
+
 sequelize	ORM for SQLite
+
 bcrypt	Password hashing
+
 jsonwebtoken	Token-based authentication
+
 socket.io	Real-time communication
+
 chart.js + react-chartjs-2	Line charts for stock prices
+
 chartjs-plugin-annotation	Alarm line on chart
+
 sweetalert2	User-friendly alert dialogs
+
 react-toastify	Toast notifications
+
 electron	Desktop app framework
 
 
