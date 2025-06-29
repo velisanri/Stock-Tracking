@@ -4,11 +4,24 @@ A modern desktop application built with **Electron**, **React**, and **Node.js (
 
 -> **Install Dependencies**:
 
+Start the Backend Server:
+
 1-cd hstkp
 
-2-cd backend                   npm install
+2-cd backend
 
-3-cd ../frontend                  npm install
+3-npm install
+
+4-node server.js
+
+
+Start the Electron Frontend:
+
+1-cd hstkp
+
+2-cd frontend 
+
+3-npm install                 
 
 4-npm run build
 
