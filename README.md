@@ -1,21 +1,21 @@
 # 📈 Stock Tracking Desktop Application
 
-A modern desktop application built with **Electron**, *React*, and *Node.js (Express)* allowing users to monitor selected stocks in real-time, set price alarms, and manage their portfolio preferences.
+A modern desktop application built with **Electron**, **React**, and **Node.js (Express)** allowing users to monitor selected stocks in real-time, set price alarms, and manage their portfolio preferences.
 
--> *Install Dependencies*:
+-> **Install Dependencies**:
 
 1-cd backend                   npm install
 
 2-cd frontend                  npm install
 
 
--> *Start the Project*:
+-> **Start the Project**:
 
 cd backend            node server.js
 
 cd frontend           npm run start
 
--> Tech Stack & Libraries:
+-> **Tech Stack & Libraries**:
 
 Core Technologies:
 
@@ -28,7 +28,7 @@ Database: SQLite (via Sequelize ORM)
 Desktop: Electron
 
 
--> *Features*:
+-> **Features**:
 
 User authentication system including registration and login functionality.
 
@@ -52,7 +52,7 @@ Secure backend with JWT-based authentication and password hashing using bcrypt.
 
 
 
--> *Major Libraries*:
+-> **Major Libraries**:
 
 react-router-dom	Page navigation (routing)
 
