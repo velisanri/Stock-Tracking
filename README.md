@@ -31,15 +31,25 @@ Desktop: Electron
 Features:
 
 User authentication system including registration and login functionality.
+
 Real-time stock price updates via WebSocket integration.
+
 Ability to set custom price alerts for followed stocks.
+
 Audio and visual notifications when alert thresholds are reached.
+
 Stock follow/unfollow management for personalized tracking.
+
 Interactive line chart showing historical stock prices with annotation for alerts.
+
 User profile screen including email display and password change functionality.
+
 Responsive and user-friendly design optimized for desktop.
+
 Electron integration for cross-platform desktop application support.
+
 Secure backend with JWT-based authentication and password hashing using bcrypt.
+
 
 
 Major Libraries:
