@@ -15,7 +15,7 @@ cd backend            node server.js
 
 cd frontend           npm run start
 
-Tech Stack & Libraries:
+-> Tech Stack & Libraries:
 
 Core Technologies:
 
