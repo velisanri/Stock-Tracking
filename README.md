@@ -18,10 +18,15 @@ cd frontend           npm run start
 Tech Stack & Libraries:
 
 Core Technologies:
+
 Frontend: React, Vite
+
 Backend: Node.js, Express.js , Sequelize, Socket.io 
+
 Database: SQLite (via Sequelize ORM)
+
 Desktop: Electron
+
 
 Features:
 
