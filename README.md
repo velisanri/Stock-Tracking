@@ -3,6 +3,7 @@
 A modern desktop application built with *Electron*, *React*, and *Express.js* allowing users to monitor selected stocks in real-time, set price alarms, and manage their portfolio preferences.
 
 Install Dependencies:
+
 1-cd backend                   npm install
 
 2-cd frontend                  npm install
